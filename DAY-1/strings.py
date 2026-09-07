@@ -1,5 +1,5 @@
 name = "codegnan"
-print(name)
+print(name) # Output: codegnan
 
 print(name[0])  # prints the first character
 print(name[1])  # prints the second character   

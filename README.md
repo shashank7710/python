@@ -8,8 +8,8 @@ I'm starting from the basics and adding my practice, exercises, and small projec
 
 - Day 1 - Strings, Tuples, Sets, and Dictionaries
 - Day 2 - Operators and Calculator
-- Day 3 - Not Started
-- Day 4 - Not Started
+- Day 3 - Python strings and slicing practice
+- Day 4 - Python lists and tuples practice
 - Day 5 - Not Started
 
 ## Why I Created This
@@ -24,4 +24,5 @@ Each folder contains the Python programs I worked on that day.
 DAY-1/
 DAY-2/
 DAY-3/
+DAY-4/
 ...

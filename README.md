@@ -10,7 +10,7 @@ I'm starting from the basics and adding my practice, exercises, and small projec
 - Day 2 - Operators and Calculator
 - Day 3 - Python strings and slicing practice
 - Day 4 - Python lists and tuples practice
-- Day 5 - Not Started
+- Day 5 - dictionary and sets practice
 
 ## Why I Created This
 
@@ -25,4 +25,5 @@ DAY-1/
 DAY-2/
 DAY-3/
 DAY-4/
+DAY-5/
 ...

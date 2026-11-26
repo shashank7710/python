@@ -48,7 +48,7 @@ else:
     print("all are equal")
 
 
-college admission
+# college admission
 
 marks = int(input("Enter your marks: "))
 entrance = input("did you pass your entrance exam? (yes/no): ")
@@ -58,7 +58,7 @@ if marks >= 60 and entrance == "yes":
 else:
     print(f'not eligilbe')
 
-driving eligibility
+# driving eligibility
 age = int(input("enter your age: "))
 if age >=18:
     d_license = input("uh have driving license? (yes/no): ")
